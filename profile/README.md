@@ -54,45 +54,49 @@ Elizor's frontend is built using the Angular framework for both the public ecomm
 Here are some screenshots showcasing different aspects of the Elizor Ecommerce Platform:
 
 - **Home Page:**
-  ![Home Page](../screenshots/home-page.png)
   Welcome to Elizor's homepage, where customers can explore a wide range of products.
+  <img alt="Home page image" src="https://github.com/the-elizor/.github/raw/main/screenshots/home-page.png">
 
 - **Category Page:**
-  ![Category Page](../screenshots/category-page.png)
   Discover products organized by categories for a convenient shopping experience.
+  <img alt="Category page image" src="https://github.com/the-elizor/.github/raw/main/screenshots/category-page.png">
 
 - **Product Detail Page:**
-  ![Product Detail Page](../screenshots/product-detail-page.png)
   Detailed information about a selected product, including images, specifications, and customer reviews.
+  <img alt="Product detail page image" src="https://github.com/the-elizor/.github/raw/main/screenshots/product%20details%20page.png">
 
 - **Search Result for "Chocolate":**
-  ![Search Result](../screenshots/search-result-chocolate.png)
   Search results for the term "Chocolate," displaying relevant products.
+  <img alt="Search result for Chocolate image" src="https://github.com/the-elizor/.github/raw/main/screenshots/search-results-for-chocolate.png">
 
 - **Cart Page:**
-  ![Cart Page](../screenshots/cart-screen.png)
   Review and manage your selected products before proceeding to checkout.
+  <img alt="Cart page image" src="https://github.com/the-elizor/.github/raw/main/screenshots/cart-screen.png">
 
 - **Delivery Options in Checkout:**
-  ![Delivery Options](../screenshots/delivery-options.png)
   Choose from different delivery options to suit your preferences.
+  <img alt="Delivery options in checkout image" src="https://github.com/the-elizor/.github/raw/main/screenshots/delivery-options.png">
 
 - **Payment Methods in Checkout:**
-  ![Payment Methods](../screenshots/payment-methods.png)
   Select a convenient payment method for your order.
+  <img alt="Payment methods in checkout image" src="https://github.com/the-elizor/.github/raw/main/screenshots/payment-methods.png">
 
 - **New Address Addition:**
-  ![New Address](../screenshots/add-new-address.png)
   Easily add a new address and set it as the default for future orders.
+  <img alt="New address addition image" src="https://github.com/the-elizor/.github/raw/main/screenshots/add-new-address.png">
 
 - **Featured Products:**
-  ![Featured Products](../screenshots/featured-products.png)
   Explore featured products that are currently in the spotlight.
+  <img alt="Featured products image" src="https://github.com/the-elizor/.github/raw/main/screenshots/featured-page.png">
+
 
 ## Marketing and Promotion
 
 To promote Elizor and engage with the community, we maintained active social media profiles on Facebook and Instagram. Several successful marketing campaigns were run, resulting in increased visibility and engagement. Here are some of the marketing banners we created:
-![Marketing Banners](links-to-your-marketing-banners)
+  <img alt="Marketing banners" src="https://github.com/the-elizor/.github/raw/main/marketing/132005548_116403713659225_1258443222430492776_n.jpg">
+  <img alt="Marketing banners" src="https://github.com/the-elizor/.github/raw/main/marketing/182605468_23847550076670297_4455096076368233450_n.jpg">
+  <img alt="Marketing banners" src="https://github.com/the-elizor/.github/raw/main/marketing/183450200_193256082640654_1785580021906135180_n.jpg">
+  <img alt="Marketing banners" src="https://github.com/the-elizor/.github/raw/main/marketing/184621686_194194655880130_4041770494901638264_n.jpg">
 
 ## Roadmap
 
