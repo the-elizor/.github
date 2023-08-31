@@ -101,7 +101,7 @@ To promote Elizor and engage with the community, we maintained active social med
 ## Roadmap
 
 We have an exciting roadmap ahead, with plans to implement the following features:
-- **Subscribe and Save:** Introducing a subscription model for frequent customers to simplify repeat purchases.
+- **Save and Subscribe** Introducing a subscription model for frequent customers to simplify repeat purchases.
 - **Seller Registration:** Allowing sellers to register with multiple locations.
 - **Customized User Experience:** Enabling customers to select their location for a tailored view of available products and inventory management.
 
