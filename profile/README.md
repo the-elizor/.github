@@ -48,39 +48,39 @@ Elizor's frontend is built using the Angular framework for both the public ecomm
 Here are some screenshots showcasing different aspects of the Elizor Ecommerce Platform:
 
 - **Home Page:**
-  ![Home Page](screenshots/home-page.png)
+  ![Home Page](../screenshots/home-page.png)
   Welcome to Elizor's homepage, where customers can explore a wide range of products.
 
 - **Category Page:**
-  ![Category Page](screenshots/category-page.png)
+  ![Category Page](../screenshots/category-page.png)
   Discover products organized by categories for a convenient shopping experience.
 
 - **Product Detail Page:**
-  ![Product Detail Page](screenshots/product-detail-page.png)
+  ![Product Detail Page](../screenshots/product-detail-page.png)
   Detailed information about a selected product, including images, specifications, and customer reviews.
 
 - **Search Result for "Chocolate":**
-  ![Search Result](screenshots/search-result-chocolate.png)
+  ![Search Result](../screenshots/search-result-chocolate.png)
   Search results for the term "Chocolate," displaying relevant products.
 
 - **Cart Page:**
-  ![Cart Page](https://github.com/the-elizor/.github/raw/main/screenshots/cart-screen.png)
+  ![Cart Page](../screenshots/cart-screen.png)
   Review and manage your selected products before proceeding to checkout.
 
 - **Delivery Options in Checkout:**
-  ![Delivery Options](screenshots/delivery-options.png)
+  ![Delivery Options](../screenshots/delivery-options.png)
   Choose from different delivery options to suit your preferences.
 
 - **Payment Methods in Checkout:**
-  ![Payment Methods](screenshots/payment-methods.png)
+  ![Payment Methods](../screenshots/payment-methods.png)
   Select a convenient payment method for your order.
 
 - **New Address Addition:**
-  ![New Address](https://github.com/the-elizor/.github/raw/main/screenshots/add-new-address.png)
+  ![New Address](../screenshots/add-new-address.png)
   Easily add a new address and set it as the default for future orders.
 
 - **Featured Products:**
-  ![Featured Products](screenshots/featured-products.png)
+  ![Featured Products](../screenshots/featured-products.png)
   Explore featured products that are currently in the spotlight.
 
 ## Marketing and Promotion
