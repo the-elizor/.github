@@ -16,33 +16,26 @@ Elizor's primary objective is to provide a seamless shopping experience for cust
 
 Given the constraints posed by the pandemic, we focused our efforts on serving customers in the nearest cities as a beta testing phase. The journey began with the collection of valuable information from these communities, helping us better understand their needs and preferences.
 
-## Logo
-
-Here's the logo that symbolizes the essence of Elizor:
-![Elizor Logo]()
-
 ## Development Approach
 
 We adopted Scrum practices to ensure a well-structured development process. Our methodology included daily standup meetings, maintaining user stories, sprint planning for 10-day cycles, and thorough sprint reviews.
 
 ## Architecture
 
-Elizor's architecture was thoughtfully designed to provide a robust and scalable foundation. We meticulously evaluated different cloud providers, including AWS, Azure, and Google Cloud, ultimately choosing AWS. The architecture diagram is as follows:
-![Architecture Diagram](link-to-your-architecture-image)
+Elizor's architecture was thoughtfully designed to provide a robust and scalable foundation. We meticulously evaluated different cloud providers, including AWS, Azure, and Google Cloud, ultimately choosing AWS. The high-level serveless architecture diagram is as follows:
+  <img alt="High Level Severless Diagram" src="https://github.com/the-elizor/.github/blob/main/diagrams/high-level-serveless-diagram.png">
 
 For scalability and cost-efficiency, we opted for a serverless architecture using AWS. We utilized AWS AppSync with GraphQL queries for the backend and AWS Amplify as our build manager. Various AWS services played crucial roles, such as:
-- Amazon S3 for storing product and customer images
+- Amazon S3 for storing product images and static contents
 - Amazon CloudFront for content delivery
 - AWS Identity and Access Management (IAM) for access control
 - Amazon DynamoDB for product storage
-- Amazon Elasticsearch for enhanced search functionality
-- AWS Lambda for image uploads and customer reviews
+- AWS Lambda for various specific functions
 - Amazon Route 53 for DNS management
 
 ## Frontend
 
-Elizor's frontend is built using the Angular framework for both the public ecommerce site and the admin app. We ensured a clear and organized component structure, enhancing maintainability and readability. Here's an overview of the Angular component structure:
-![Angular Component Structure](link-to-your-component-structure-image)
+Elizor's frontend is built using the Angular framework for both the public ecommerce site and the admin app. We ensured a clear and organized component structure, enhancing maintainability and readability.
 
 ## Features
 
