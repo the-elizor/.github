@@ -1,6 +1,12 @@
 # Elizor Ecommerce Platform Project
 
-Welcome to the official GitHub repository for Elizor, an online ecommerce platform aimed at bridging the gap between local communities and small vendors, especially in light of the COVID-19 restrictions. This project was initiated by Elizor Pvt Ltd, registered on December 19, 2019, with three directors: Niroshan Kumarasinghe, Ashan Perera, and Dishan Fernando.
+Welcome to the official GitHub repository for Elizor, an online ecommerce platform aimed at bridging the gap between local communities and small vendors, especially in light of the COVID-19 restrictions. This project was initiated by Elizor Pvt Ltd, registered on December 19, 2019. As Elizor, our primary goal is to establish meaningful connections between locals and their neighborhood markets. To this end, we have introduced innovative concepts that enhance the shopping experience.
+
+- **Elizor GO:** Recognizing the importance of localized markets, we've introduced the concept of Elizor GO. This initiative aims to facilitate easy access to neighborhood retailers, fostering a sense of community and supporting local businesses.
+
+- **Elizor Fresh:** Beyond traditional products, we're pleased to offer fresh produce, including vegetables, fruits, and meats, through Elizor Fresh. This extension empowers customers to access quality, locally-sourced goods, promoting healthy living and supporting local farmers.
+
+- **Elizor Bulk:** For those seeking larger quantities, Elizor Bulk offers a solution. We provide bulk products under this banner, allowing customers to purchase any amount they need, exceeding a minimum limit. This flexible approach caters to both individuals and businesses.
 
 ## Project Overview
 
